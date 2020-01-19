@@ -1,0 +1,6 @@
+2020-01-12T08:40:52+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\noithatgiahoang\wp-content\themes\flatsome\functions.php on line 39
+
+2020-01-12T12:20:12+00:00 CRITICAL syntax error, unexpected 'hệ’' (T_STRING), expecting ';' in C:\xampp\htdocs\noithatgiahoang\wp-content\themes\flatsome\functions.php on line 63
+
+2020-01-12T12:20:26+00:00 CRITICAL syntax error, unexpected 'hệ’' (T_STRING), expecting ';' in C:\xampp\htdocs\noithatgiahoang\wp-content\themes\flatsome\functions.php on line 63
+

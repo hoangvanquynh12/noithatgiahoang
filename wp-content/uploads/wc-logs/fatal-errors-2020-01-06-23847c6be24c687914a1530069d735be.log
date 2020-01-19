@@ -1,0 +1,14 @@
+2020-01-06T13:52:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\noithatgiahoang\wp-admin\includes\class-wp-filesystem-direct.php on line 81
+
+2020-01-06T13:53:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\noithatgiahoang\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-01-06T13:53:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\noithatgiahoang\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-01-06T14:03:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\noithatgiahoang\wp-admin\includes\class-wp-filesystem-direct.php on line 81
+
+2020-01-06T14:06:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\noithatgiahoang\wp-includes\Requests\Transport\cURL.php on line 441
+
+2020-01-06T14:11:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\noithatgiahoang\wp-admin\includes\class-wp-filesystem-direct.php on line 81
+
+2020-01-06T14:16:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\noithatgiahoang\wp-includes\Requests\Transport\cURL.php on line 463
+
