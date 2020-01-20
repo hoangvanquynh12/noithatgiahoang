@@ -541,7 +541,7 @@ msgid "You must accept the terms and conditions before sending your message."
 msgstr "Bạn phải chấp nhận điều khoản trước khi gửi form."
 
 #: includes/contact-form-template.php:188
-msgid "The field is required."
+msgid "sdfsdf"
 msgstr "Mục này là bắt buộc."
 
 #: includes/contact-form-template.php:195
